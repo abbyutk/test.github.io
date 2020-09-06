@@ -1,0 +1,21 @@
+/* .commingpage{
+    font-size:80px;
+    color:white;
+    position: absolute;
+    font-weight: 400;
+     left: 50%;
+    top: 50%; 
+} */
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+body{
+    background-image: url("../img/bridge.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ .commingpage{
+    border-bottom: 2px solid black ;
+ }
+
+
+    
